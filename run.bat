@@ -1,0 +1,1 @@
+java -cp Scripts/;Scripts/scripts/;Client_lib/gson-2.3.1.jar -jar Client.jar
